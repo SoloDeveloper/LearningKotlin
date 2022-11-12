@@ -74,7 +74,7 @@ fun getEmployee(ssn: Int): Employee? {
 	}
 }
 
-//Pulled from the internet as I was too lazy to do it myself.
+// Source: Internet
 fun getRandomString(length: Int): String {
 	val charset = ('a'..'z') + ('A'..'Z') + ('0'..'9')
 	
